@@ -3,12 +3,12 @@
 This repository contains the complete research and development pipeline for detecting *Trypanosoma cruzi* using deep learning techniques. The project focuses on automating the identification of this parasite in microscopic images to assist in medical diagnosis.
 
 ## 📌 Project Overview
-The core of this research is documented in the [Full Pipeline - Models - AID-CV.ipynb](./Full Pipeline - Models - AID-CV.ipynb) notebook, which includes data preprocessing, model selection, training, and comprehensive evaluation.
+The core of this research is documented in the [Full Pipeline - Models - AID-CV.ipynb](./Full-Pipeline.ipynb) notebook, which includes data preprocessing, model selection, training, and comprehensive evaluation.
 
 ## 🔬 Methodology: CRISP-ML(Q)
 The project follows the **CRISP-ML(Q)** (Cross-Industry Standard Process for Machine Learning with Quality Assurance) framework to ensure a rigorous and reproducible scientific workflow.
 
-![CRISP-ML(Q) Methodology Diagram](./CRISP-ML(Q) METHODOLOGY - Diagram.jpg)
+![CRISP-ML(Q) Methodology Diagram](./CRISP-ML(Q)_METHODOLOGY_-_Diagram.jpg)
 *Note: The diagram illustrates the six phases: Business & Data Understanding, Data Engineering, ML Model Engineering, Quality Assurance, Deployment, and Monitoring.*
 
 ## 🚀 Model Selection: YOLO11 Small
@@ -38,6 +38,6 @@ This project is open-source under the **MIT License**.
 ### Giving Credit
 If you use this work, code, or methodology in your own research or projects, please provide attribution by citing this repository:
 
-> **Richard Sucuy**, *Trypanosoma Cruzi Detection in Microscopic Blood Samples*, (2026), GitHub repository: [https://github.com/RichardSucuy/Full-Pipeline-Models-AID-CV]
+> **Richard Sucuy, Micaela Sucuy, Karla Aguialar and Eduardo Tusa**, *Trypanosoma Cruzi Detection in Microscopic Blood Samples*, (2026), GitHub repository: https://github.com/RichardSucuy/Full-Pipeline-Models-AID-CV
 
 You can also use the [LICENSE](./LICENSE) file for legal details.
