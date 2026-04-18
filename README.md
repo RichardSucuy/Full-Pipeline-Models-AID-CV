@@ -38,6 +38,6 @@ This project is open-source under the **MIT License**.
 ### Giving Credit
 If you use this work, code, or methodology in your own research or projects, please provide attribution by citing this repository:
 
-> **Richard Sucuy, Micaela Sucuy, Karla Aguialar and Eduardo Tusa**, *Trypanosoma Cruzi Detection in Microscopic Blood Samples*, (2026), GitHub repository: https://github.com/RichardSucuy/Full-Pipeline-Models-AID-CV
+> **Richard Sucuy, Micaela Sucuy, Karla Aguilar and Eduardo Tusa**, *Trypanosoma Cruzi Detection in Microscopic Blood Samples*, (2026), GitHub repository: https://github.com/RichardSucuy/Full-Pipeline-Models-AID-CV
 
 You can also use the [LICENSE](./LICENSE) file for legal details.
